@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I connected a tasteful selection of logic gates between the inputs and outputs.
 
 ## How to test
 
-Explain how to use your project
+Get a snack, flip some switches, look at the pretty lights. Best enjoyed with a friend.
 
 ## External hardware
-
+N/A
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
